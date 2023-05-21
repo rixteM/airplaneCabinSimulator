@@ -5,7 +5,7 @@ Use C++17 version
 
 ## Help to compile :
 
-Se placer dans le fichier simulateur et taper les commandes suivantes :
+Go to the simulator file and type the following commands :
 - make to compile
 - rm -f to delate executable file
 - rm -rf to delate file .o
